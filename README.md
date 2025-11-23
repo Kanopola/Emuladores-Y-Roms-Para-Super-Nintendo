@@ -1,1 +1,3 @@
-Snes9x 1.53 (versión para Windows x64) es un emulador para la consola Super Nintendo Entertainment System (SNES) que presenta mejoras significativas respecto a versiones anteriores: manejo de interrupciones (IRQ) reimplementado, mejor sincronización de eventos dentro de los opcodes, soporte mejorado para SA-1 y gráficos en alta resolución, entre otros. Esta versión fue publicada alrededor de abril de 2011.
+Emuladores Snes9x 1.53, Snes9x 1.60 y Znes 1.51 para la consola Super Nintendo Entertainment System (SNES).
+
+Nota: los archivos fueron subidos por partes en formato .zip, por lo que, deberá descargar todas las partes y cuando las tengas todas darle a descomprimir. No tiene contraseñas.
